@@ -1,4 +1,3 @@
-# ICML2016
 % ========================================================================
 % Relaxed Collaborative Representation, Version 1.0
 % Copyright(c) 2016 Qianqian Xu, Jiechao Xiong, Xiaochun Cao, and Yuan Yao
@@ -20,7 +19,7 @@
 %
 % Please refer to the following paper:
 %
-% Qianqian Xu, Jiechao Xiong, Xiaochun Cao, and Yuan Yao, ‚ÄúFalse Discovery Rate Control and Statistical Quality Assessment of Annotators in Crowdsourced Ranking‚Äù, International Conference on Machine Learning, ICML 2016, 1282--1291, New York City, NY, USA, Jun 19-24, 2016. (Oral)
+% Qianqian Xu, Jiechao Xiong, Xiaochun Cao, and Yuan Yao, °∞False Discovery Rate Control and Statistical Quality Assessment of Annotators in Crowdsourced Ranking°±, International Conference on Machine Learning, ICML 2016, 1282--1291, New York City, NY, USA, Jun 19-24, 2016. (Oral)
 % 
 % Contact: yuany@math.ust.hk, xuqianqian@ict.ac.cn
 %----------------------------------------------------------------------
